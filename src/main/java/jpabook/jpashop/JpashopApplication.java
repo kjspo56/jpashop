@@ -8,6 +8,7 @@ public class JpashopApplication {
 
 	public static void main(String[] args) {
 
+		//롬복 테스트
 		Hello hello = new Hello();
 		hello.setData("hello");
 		String data = hello.getData();
